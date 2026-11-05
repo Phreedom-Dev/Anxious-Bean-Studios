@@ -136,5 +136,4 @@
       "Finally, I addressed the brief jump and stutter associated with picking up objects. Pickup previews now update at the cursor immediately, nearby-item snapping avoids unnecessary collision checks, navigation compares stable obstacle layouts, and wall geometry is cached between relevant layout changes. Focused checks preserved placement and navigation behavior while reducing repeated work. The latest native builds compiled and started successfully; busy-game frame times and several new visual interactions still need direct in-game verification. Save migrations were added throughout the week to preserve existing progress as these systems expanded."
     ]
   }
-]
-]
+];
