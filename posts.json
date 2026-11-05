@@ -10,7 +10,8 @@
       "Welcome to Laundry Service, a comedic management game about running a neighborhood laundromat while secretly building an evil lair in the back room.",
       "The everyday work matters: customers need working washers and dryers, drop-off orders have deadlines, and the bills still need to be paid. Meanwhile, behind the scenes, you'll research peculiar equipment, meet a cast of recurring characters, and discover increasingly elaborate Operations.",
       "I'm building Laundry Service in GameMaker. This development log will be where I share new features, screenshots, design decisions, and the occasional unexpected disaster. Thanks for following along!"
-    ],
+    ]
+  },
   {
     "id": "week-01-first-loads-and-a-suspicious-back-room",
     "date": "2026-10-01",
@@ -136,4 +137,4 @@
       "Finally, I addressed the brief jump and stutter associated with picking up objects. Pickup previews now update at the cursor immediately, nearby-item snapping avoids unnecessary collision checks, navigation compares stable obstacle layouts, and wall geometry is cached between relevant layout changes. Focused checks preserved placement and navigation behavior while reducing repeated work. The latest native builds compiled and started successfully; busy-game frame times and several new visual interactions still need direct in-game verification. Save migrations were added throughout the week to preserve existing progress as these systems expanded."
     ]
   }
-];
+]
