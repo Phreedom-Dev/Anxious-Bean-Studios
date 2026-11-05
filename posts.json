@@ -1,0 +1,15 @@
+[
+  {
+    "id": "welcome-to-laundry-service",
+    "date": "2026-11-05",
+    "category": "INTRODUCTION \u00b7 DRAFT",
+    "title": "Welcome to Laundry Service",
+    "excerpt": "A first look at the perfectly ordinary laundromat hiding some very unusual ambitions.",
+    "body": [
+      "EDITOR NOTE: This is a suggested first devlog draft. Review and edit it before publishing.",
+      "Welcome to Laundry Service, a comedic management game about running a neighborhood laundromat while secretly building an evil lair in the back room.",
+      "The everyday work matters: customers need working washers and dryers, drop-off orders have deadlines, and the bills still need to be paid. Meanwhile, behind the scenes, you'll research peculiar equipment, meet a cast of recurring characters, and discover increasingly elaborate Operations.",
+      "I'm building Laundry Service in GameMaker. This development log will be where I share new features, screenshots, design decisions, and the occasional unexpected disaster. Thanks for following along!"
+    ]
+  }
+]
